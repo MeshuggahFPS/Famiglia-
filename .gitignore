@@ -1,0 +1,23 @@
+## Ignore Visual Studio build artifacts
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+# Build Results
+[Ll]og/
+*.log
+# User-specific files
+*.swp
+*.tmp
+*.bak
+*.ncb
+*.cache
+*.config
+*.dbmdl
+# Others
+.env
