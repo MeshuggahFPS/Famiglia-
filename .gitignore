@@ -21,3 +21,7 @@ ScaffoldingReadMe.txt
 *.dbmdl
 # Others
 .env
+
+# Azure Cosmos DB
+.env.local
+app/appsettings.Development.json
